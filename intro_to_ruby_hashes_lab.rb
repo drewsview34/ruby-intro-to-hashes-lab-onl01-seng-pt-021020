@@ -42,6 +42,14 @@ def monopoly_with_third_tier
           {
       
           },
+          :b_and_o_railroad=>
+          {
+        "mortgage_value"=>"$400"
+          },
+      :shortline=>
+          {
+        "mortgage_value"=>"$800"
+          }
   	    },
   	    :rent_in_dollars=>
   	    {
